@@ -273,7 +273,7 @@ sqlalchemy==2.0.36
     # via fastapi-app (pyproject.toml)
 starlette==0.41.3
     # via fastapi
-tiktoken==0.7.0
+tiktoken==0.8.0
     # via
     #   fastapi-app (pyproject.toml)
     #   openai-messages-token-helper
