@@ -186,7 +186,7 @@ opentelemetry-instrumentation-wsgi==0.48b0
     #   opentelemetry-instrumentation-flask
 opentelemetry-resource-detector-azure==0.1.5
     # via azure-monitor-opentelemetry
-opentelemetry-sdk==1.27.0
+opentelemetry-sdk==1.29.0
     # via
     #   azure-monitor-opentelemetry
     #   azure-monitor-opentelemetry-exporter
