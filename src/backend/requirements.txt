@@ -226,7 +226,7 @@ packaging==24.2
     #   opentelemetry-instrumentation-sqlalchemy
 pgvector==0.3.6
     # via fastapi-app (pyproject.toml)
-pillow==11.0.0
+pillow==11.1.0
     # via openai-messages-token-helper
 portalocker==2.10.1
     # via msal-extensions
